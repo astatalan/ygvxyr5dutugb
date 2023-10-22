@@ -30,4 +30,5 @@ the 2s are powers of 2
 2 times 443 is 886 which looks like 86
 also bytearrays are displayed as /x which means 8 turns into a byte and then you get x86
 
-Also may 19 is 295th day of the year. 29 appears again.
+Also may 19 is 139th day of the year. 139 is the 34th prime number. Nanjolno connects 34 to rule 34 which makes her think about shikaco's brother
+A reason why january 17 is shikaco's character's birthday is that it is the 348th day before a year. 348 factors to 2^2 times 3 times 29. 29 appears.
